@@ -1,0 +1,4 @@
+rootProject.name = "Apple Tv"
+include ':app'
+include ':player'
+include ':quickjs'
